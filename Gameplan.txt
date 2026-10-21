@@ -1,0 +1,17 @@
+Declaration: I want to create a football simulation in C++.
+
+Features:
+
+- Pregame Random Introduction for each team
+- Stadium Description for each team
+- 32 Teams
+- 11 Players on Offense and Defense for each Teams 
+- Quarterback (Can throw and run)
+- Running Back (Can catch and run)
+- Wide Receiver/Tight End (Can Catch)
+- Center (Can Snap the Ball, and block)
+- Rest of Offensive Line (Can Block)
+- Defense (Can Catch, and Tackle)
+- Kicker (Can kick, catch, throw, and run)
+- Long Snapper (Can catch)
+- Weather and Temperature
